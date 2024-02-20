@@ -2,7 +2,7 @@
 
 ## Repo Overview
 
-How do pre-trained Transformer models process and store information and how can we update the information processing and storing? In this repository, we provide an empirical study on updating key-value memories in Transformer feed-forward layers. We contend that **compared to directly modifying the model's knowledge (values), altering the mechanism of controlling this knowledge (keys) can be more effective.** For more details, please refer to our paper.
+How do pre-trained Transformer models process and store information and how can we update the information processing and storing? In this repository, we provide an empirical study on updating key-value memories in Transformer feed-forward layers. We contend that **compared to directly modifying the model's knowledge (values), altering the mechanism of controlling this knowledge (keys) can be more effective.** For more details, please refer to our [paper](https://arxiv.org/abs/2402.12233).
 
 ## Llama Experiments
 
